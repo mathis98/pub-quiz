@@ -1,14 +1,22 @@
 import React, { useState } from 'react';
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import Link from '@mui/material/Link';
-import Grid from '@mui/material/Grid'
-import Stack from '@mui/material/Stack'
-import Card from '@mui/material/Card'
-import CardContent from '@mui/material/CardContent'
-import { CardActionArea } from '@mui/material'
-import Button from '@mui/material/Button'
+
+import {
+  Container,
+  Typography,
+  Box,
+  Link,
+  Grid,
+  Stack,
+  Card,
+  CardContent,
+  CardActionArea,
+  Button,
+  Select,
+  MenuItem
+} from '@mui/material'
+
+import Mathis from './questions/Mathis.json'
+import Dominik from './questions/Dominik.json'
 
 // console.log(questions.keys())
 
@@ -22,7 +30,9 @@ function Copyright() {
 
 const colors = ['#f50057', 'lightgreen', 'yellow', 'orange']
 
-const App = ({ content }) => {
+const files = [Mathis, Dominik]
+
+const App = () => {
 
   const [active, setActive] = useState("")
   const [team, setTeam] = useState("A")
@@ -31,6 +41,7 @@ const App = ({ content }) => {
   const [answered, setAnswered] = useState([])
   const [showCorrect, setShowCorrect] = useState(false)
   const [winner, setWinner] = useState("")
+  const [content, setContent] = useState(Mathis)
 
   const activate = (category, question) => {
     setShowCorrect(false)
@@ -91,6 +102,17 @@ const App = ({ content }) => {
     }
   }
 
+  const changeContent = content => {
+    setContent(content)
+    setActive("")
+    setTeam("A")
+    setTeamAPoints(0)
+    setTeamBPoints(0)
+    setAnswered([])
+    setShowCorrect(false)
+    setWinner("")
+  }
+
   const decoration = (category, question) => {
     if(answered.includes(`${category}${question}`))
       return 'line-through'
@@ -99,9 +121,18 @@ const App = ({ content }) => {
 
   return (
     <Container maxWidth='xxl'>
-    <Typography variant="h3" component="h1" gutterBottom>
+    <Typography variant="h3" component="h1" sx={{float: 'left'}} gutterBottom>
       PubQuiz!
     </Typography>
+    <Select
+      label="Content"
+      value={content}
+      onChange={event => changeContent(event.target.value)}
+      sx={{float: 'right', marginTop: '10px'}}
+    >
+      <MenuItem value={Mathis}>Mathis</MenuItem>
+      <MenuItem value={Dominik}>Dominik</MenuItem>
+    </Select>
       <Grid container spacing={2}>
 
         {Object.keys(content).map((category, i) => (

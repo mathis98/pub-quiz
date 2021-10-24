@@ -1,0 +1,170 @@
+{
+  "Geographie!": {
+    "Was ist die Hauptstadt Deutschlands1?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 1000,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands2?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 500,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands3?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 200,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands4?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 100,
+      "correct": "Berlin"
+    }
+  },
+  "Halloween!": {
+    "Was ist die Hauptstadt Deutschlands1?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 1000,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands2?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 500,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands3?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 200,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands4?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 100,
+      "correct": "Berlin"
+    }
+  },
+  "Uni!": {
+    "Was ist die Hauptstadt Deutschlands1?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 1000,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands2?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 500,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands3?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 200,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands4?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 100,
+      "correct": "Berlin"
+    }
+  },
+  "Astronomie!": {
+    "Was ist die Hauptstadt Deutschlands1?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 1000,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands2?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 500,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands3?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 200,
+      "correct": "Berlin"
+    },
+    "Was ist die Hauptstadt Deutschlands4?": {
+      "answers": [
+        "Berlin",
+        "Düsseldorf",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "points": 100,
+      "correct": "Berlin"
+    }
+  }
+}

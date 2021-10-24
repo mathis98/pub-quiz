@@ -8,7 +8,7 @@ import questions from './questions/Mathis.json'
 ReactDOM.render(
   <React.Fragment>
     <CssBaseline />
-    <App content={questions} />
+    <App />
   </React.Fragment>,
   document.getElementById('root'),
 );
