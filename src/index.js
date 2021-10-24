@@ -1,15 +1,22 @@
 import * as React from 'react';
 import ReactDOM from 'react-dom';
 import CssBaseline from '@mui/material/CssBaseline';
+import { createTheme, ThemeProvider } from '@mui/material/styles'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import questions from './questions/Mathis.json'
 
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
+
 ReactDOM.render(
-  <React.Fragment>
+  <ThemeProvider theme={darkTheme}>
     <CssBaseline />
     <App />
-  </React.Fragment>,
+  </ThemeProvider>,
   document.getElementById('root'),
 );
 

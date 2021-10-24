@@ -28,7 +28,7 @@ function Copyright() {
   );
 }
 
-const colors = ['#f50057', 'lightgreen', 'yellow', 'orange']
+const colors = ['darkred', 'darkgreen', 'darkblue', 'darkorange']
 
 const files = [Mathis, Dominik]
 
