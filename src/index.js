@@ -7,7 +7,6 @@ import questions from './questions/Mathis.json'
 
 ReactDOM.render(
   <React.Fragment>
-    {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
     <CssBaseline />
     <App content={questions} />
   </React.Fragment>,
