@@ -1,6 +1,6 @@
 image: node
 
-page:
+pages:
   stage: deploy
   cache:
     paths:
@@ -15,4 +15,4 @@ page:
     paths:
       - public
   only:
-    - master
+    - main
