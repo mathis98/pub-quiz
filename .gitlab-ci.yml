@@ -1,6 +1,6 @@
 image: node
 
-pages:
+page:
   stage: deploy
   cache:
     paths:
