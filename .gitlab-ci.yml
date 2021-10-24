@@ -1,5 +1,9 @@
 image: node
 
+include:
+  template: Jobs/SAST.gitlab-ci.yml
+
+
 pages:
   stage: deploy
   cache:
