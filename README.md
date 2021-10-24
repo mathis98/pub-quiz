@@ -1,3 +1,3 @@
 # Pub Quiz
 
-[pubquiz.mathisarend.com](pubquiz.mathisarend.com)
+[pubquiz.mathisarend.com](https://pubquiz.mathisarend.com)
