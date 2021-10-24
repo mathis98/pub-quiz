@@ -2,9 +2,6 @@ image: node
 
 pages:
   stage: deploy
-  environment:
-    name: main
-    url: https://main.pubquiz.mathisarend.com
   cache:
     paths:
       - node_modules/
