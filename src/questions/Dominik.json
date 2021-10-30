@@ -1,170 +1,128 @@
 {
   "Geographie!": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+    "Wie tief ligt der Tiefste Punkt der Welt?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "von 4 km bis 8 km",
+        "von 8 km bis 12 km",
+        "von 12 km bis 16 km",
+        "tiefer als 16 km"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "von 12 km bis 16 km"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Woher kommt der Name 'Arktis'?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "vom innuit für Schnee",
+        "griechisch für Bär",
+        "Entdecker Lord Richard Ark",
+        "Innuit Gottheit der Tundra"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "griechisch für Bär"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Welche ist die Hauptstadt von Peru?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Bielefeld",
+        "Lima",
+        "Arequipa",
+        "Cusco"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "Lima"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Welche ist die Hauptstadt von Spanien?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Madrid",
+        "Palma de Mallorca",
+        "Barcelona",
+        "Lisboa"
       ],
       "points": 100,
-      "correct": "Berlin"
+      "correct": "Madrid"
     }
   },
   "Halloween!": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+    "Wann kam der erste Zombie-Film \"The White Zombie\" ins Kino?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "1932",
+        "1800",
+        "1975",
+        "1999"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "1932"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Wo, glaubt man, entstand Halloween?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "USA",
+        "Frankreich",
+        "Norwegen",
+        "Irland"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "Irland"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Wie heisst die mexicanische Version von Halloween?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Dia de los muertos",
+        "Noche de los muertos",
+        "Baile de los muertos",
+        "Fiesta de los muertos"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "Dia de los muertos"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Der erste name von Count Dracula in Bram Stoker's Buck war...?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Count Wampyr",
+        "Lord Vlad",
+        "Count Lucifer",
+        "Steve"
       ],
       "points": 100,
-      "correct": "Berlin"
+      "correct": "Count Wampyr"
     }
   },
-  "Uni!": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+  "Astronomie": {
+    "Wo liegt der höchste Berg im Sonnensystem?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Erde",
+        "Venus",
+        "Mars",
+        "Neptun"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "Mars"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Wie heißen die zwei hellsten Sterne im Sternbild Zwillinge?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Hephaistos und Vulcanus",
+        "Castor und Pollux",
+        "Leonidas und Xerxes",
+        "Hermes und DHL"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "Castor und Pollux"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Wie weit ist die Erde von der Sonne entfernt?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "sehr weit",
+        "1 astronomische Einheit",
+        "5 Lichtminuten",
+        "30 Mio. Kilometer"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "1 astronomische Einheit"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Wie viele Planeten hatte unser Sonnensystem bis 2009?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "13",
+        "9",
+        "7",
+        "10"
       ],
       "points": 100,
-      "correct": "Berlin"
-    }
-  },
-  "Astronomie!": {
-    "Was ist die Hauptstadt Deutschlands1?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 1000,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands2?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 500,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands3?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 200,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands4?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 100,
-      "correct": "Berlin"
+      "correct": "9"
     }
   }
 }
