@@ -153,7 +153,7 @@ const App = () => {
                       <Grid container spacing={2}>
                         <Grid item xs={6}>
                           <Stack spacing={3}>
-                          <Button variant='contained' onClick={
+                          <Button sx={{fontSize: '20px'}} color="black" variant="outlined" onClick={
                             () => switchTeam(
                               content[category][question].points,
                               content[category][question].answers[0] == content[category][question].correct,
@@ -168,7 +168,7 @@ const App = () => {
                           >
                             A: {content[category][question].answers[0]}
                             </Button>
-                            <Button variant='contained' onClick={
+                            <Button sx={{fontSize: '20px'}} color="black" variant="outlined"  onClick={
                               () => switchTeam(
                                 content[category][question].points,
                                 content[category][question].answers[1] == content[category][question].correct,
@@ -187,7 +187,7 @@ const App = () => {
                         </Grid>
                         <Grid item xs={6}>
                           <Stack spacing={3}>
-                            <Button variant='contained' onClick={
+                            <Button sx={{fontSize: '20px'}} color="black" variant="outlined"  onClick={
                               () => switchTeam(
                                 content[category][question].points,
                                 content[category][question].answers[2] == content[category][question].correct,
@@ -202,7 +202,7 @@ const App = () => {
                             >
                             C: {content[category][question].answers[2]}
                             </Button>
-                            <Button variant='contained' onClick={
+                            <Button sx={{fontSize: '20px'}} color="black" variant="outlined"  onClick={
                               () => switchTeam(
                                 content[category][question].points,
                                 content[category][question].answers[3] == content[category][question].correct,

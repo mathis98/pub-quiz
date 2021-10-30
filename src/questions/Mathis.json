@@ -1,170 +1,170 @@
 {
-  "Geographie": {
-    "Was ist die Hauptstadt Deutschlands1?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 1000,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands2?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 500,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands3?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 200,
-      "correct": "Berlin"
-    },
-    "Was ist die Hauptstadt Deutschlands4?": {
-      "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
-      ],
-      "points": 100,
-      "correct": "Berlin"
-    }
-  },
   "Halloween": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+    "Welches ist das keltische Fest von dem Halloween inspiriert wurde?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Beltane",
+        "Imbolc",
+        "Samhain",
+        "Lughnasadh"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "Samhain"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Wie heißt der Kannibale in 'Texas Chainsaw Massacre'?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Leatherface",
+        "Hannibal Lecter",
+        "Pinhead",
+        "Freddy Krueger"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "Leatherface"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Was bedeutet 'Halloween'?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Abend vor Allerseelen",
+        "Halloven (Ort in Deutschland)",
+        "Abend vor Frohnleichnam",
+        "Abend vor Allerheiligen"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "Abend vor Allerheiligen"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Wer veranstaltet jedes Jahr zu Halloween eine aufwendige Party mit tollen Kostümen?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Kim Kardashian",
+        "Heidi Klum",
+        "Annalena Baerbock",
+        "Nicki Minaj"
       ],
       "points": 100,
-      "correct": "Berlin"
+      "correct": "Heidi Klum"
     }
   },
-  "Uni": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+  "TU Berlin": {
+    "Welches Fachgebiet gibt es in der Fakultät I NICHT?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Erziehungs-wissenschaften",
+        "Sprache und Kommunikation",
+        "Berufliche Bildung und Arbeitslehre",
+        "Sozialpädagogik"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "Sozialpädagogik"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Wie hieß die Vorgängerhochschule der TU Berlin?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Adolf Slaby Universität",
+        "Konrad Zuse Universität",
+        "Kaiserlich Technische Universität zu Berlin",
+        "Königlich Technische Hochschule zu Berlin"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "Königlich Technische Hochschule zu Berlin"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Wofür steht HE101?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Hörsaal Energietechnik",
+        "Hörsaal Elektrotechnik",
+        "Hörsaal der Elementarphysik",
+        "Hörsaal E"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "Hörsaal Elektrotechnik"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Wofür steht 'TU'?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Total Unorganisiert",
+        "Technische Universität",
+        "Technisch Unmöglich",
+        "Totaler Unfall"
       ],
       "points": 100,
-      "correct": "Berlin"
+      "correct": "Technische Universität"
     }
   },
-  "Astronomie": {
-    "Was ist die Hauptstadt Deutschlands1?": {
+  "Filme": {
+    "Wie heißt der Hauptcharakter aus Squid Game?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Cho Sang-woo",
+        "Seong Gi-hun",
+        "Kang Sae-byeok",
+        "Lee Jung-jae"
       ],
       "points": 1000,
-      "correct": "Berlin"
+      "correct": "Seong Gi-hun"
     },
-    "Was ist die Hauptstadt Deutschlands2?": {
+    "Wann kam der erste Star Wars Film in's Kino?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "1977",
+        "1980",
+        "2000",
+        "1965"
       ],
       "points": 500,
-      "correct": "Berlin"
+      "correct": "1977"
     },
-    "Was ist die Hauptstadt Deutschlands3?": {
+    "Wie heißt der Vulkan in Mordor?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Wetterspitze",
+        "Schicksalsberg",
+        "Höllenberg",
+        "Zugspitze"
       ],
       "points": 200,
-      "correct": "Berlin"
+      "correct": "Schicksalsberg"
     },
-    "Was ist die Hauptstadt Deutschlands4?": {
+    "Wie der Hauself der Harry Potter hilft?": {
       "answers": [
-        "Berlin",
-        "Düsseldorf",
-        "Frankfurt",
-        "Hamburg"
+        "Dibby",
+        "Dubby",
+        "Dobby",
+        "Dorsley"
       ],
       "points": 100,
-      "correct": "Berlin"
+      "correct": "Dobby"
+    }
+  },
+  "Berlin": {
+    "Was ist der jüngste Bezirk Berlins?": {
+      "answers": [
+        "Mitte",
+        "Friedrichshain-Kreuzberg",
+        "Pankow",
+        "Neukölln"
+      ],
+      "points": 1000,
+      "correct": "Friedrichshain-Kreuzberg"
+    },
+    "Was bedeutet 'Berlin'?": {
+      "answers": [
+        "Sumpf",
+        "Bär",
+        "Braunbär",
+        "Moor"
+      ],
+      "points": 500,
+      "correct": "Sumpf"
+    },
+    "Wieviele Einwohner hatte Berlin am Maximum?": {
+      "answers": [
+        "3,8 Millionen",
+        "4,5 Millionen",
+        "1,8 Millionen",
+        "4 Millionen"
+      ],
+      "points": 200,
+      "correct": "4,5 Millionen"
+    },
+    "Was ist der Leitspruch Berlins?": {
+      "answers": [
+        "Hartz IV aber geil!",
+        "Bei uns läuft's!",
+        "Arm aber sexy!",
+        "Party die ganze Nacht!"
+      ],
+      "points": 100,
+      "correct": "Arm aber sexy!"
     }
   }
 }
